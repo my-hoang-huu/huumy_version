@@ -6,6 +6,7 @@
         "description": "Khám phá những ưu đãi hấp dẫn từ HighLands",
         "url": "https://go.isclix.com/deep_link/v6/6778278686859975882/5979386823886321997?sub4=oneatweb&url_enc=aHR0cHM6Ly9wcm9tby5oaWdobGFuZHNjb2ZmZWUuY29tLnZuL3V1ZGFpNA%3D%3D",
         "button": "receive",
+        "image_height": 225,
         "images": [
             "https://storage.googleapis.com/hc-cdn/promotion-landing/uudai4/Slider_30KOFF135K_T8.jpg",
             "https://storage.googleapis.com/hc-cdn/promotion-landing/uudai4/Slider_40KOFF169K_T8.png",
@@ -19,6 +20,7 @@
         "description": "Khám phá những ưu đãi hấp dẫn từ The Coffee House",
         "url": "https://go.isclix.com/deep_link/v6/6778278686859975882/6699917486599106569?sub4=oneatweb&url_enc=aHR0cHM6Ly9wcm9tb3RoZWNvZmZlZWVob3VzZS5jb20udm4v",
         "button": "collect",
+        "image_height": 225,
         "images": [
             "https://promothecoffeeehouse.com.vn/static/images/banner2/FREEUPSIZE.jpg",
             "https://promothecoffeeehouse.com.vn/static/images/banner2/FREEMOCHI.jpg",
