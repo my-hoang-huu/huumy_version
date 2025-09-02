@@ -1,6 +1,6 @@
 [
     {
-        "test": "true",
+        "test": 1,
         "branch": "highlands",
         "title":"Ưu đãi từ\n𝐇𝐈𝐆𝐇𝐋𝐀𝐍𝐃𝐒 𝐂𝐎𝐅𝐅𝐄𝐄\nTháng 9/2025",
         "description": "Khám phá những ưu đãi hấp dẫn từ HighLands",
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "test": "false",
+        "test": 0,
         "branch": "theCoffeeHouse",
         "title":"Mã Giảm Giá\n𝐓𝐇𝐄 𝐂𝐎𝐅𝐅𝐄𝐄 𝐇𝐎𝐔𝐒𝐄\nTháng 9/2025",
         "description": "Khám phá những ưu đãi hấp dẫn từ The Coffee House",
