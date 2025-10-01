@@ -1,0 +1,2 @@
+news image have width 150
+height default is 225
