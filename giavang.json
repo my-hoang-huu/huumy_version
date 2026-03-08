@@ -1,5 +1,7 @@
 {
-  "latest_version": "1.5.6",
-  "list_message":[],
-  "update_type":1
+  "latest_version": "1.5.14",
+  "list_message":[
+        "Sửa và cập nhật giá xăng Petrolimex"
+  ],
+  "update_type":0
 }
