@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.7.3",
-  "list_message":["Tăng tính ổn định biểu đồ SJC. Điều chỉnh giao diện Sổ Vàng"],
-  "update_type":1
+  "latest_version": "1.7.4",
+  "list_message":["Sửa lỗi chuyển đổi giá vàng Trong nước - Thế giới không ổn định"],
+  "update_type":0
 }
