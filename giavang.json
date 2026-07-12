@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.8.7",
-  "list_message":["Thêm bảng so sánh giá vàng từ các thương hiệu!", "Bỏ thông báo nâng cấp tài khoản."],
-  "update_type":1
+  "latest_version": "1.8.11",
+  "list_message":["🚨 Sửa lỗi không tải được Giá Vàng, Bạc Thế giới và giá Dầu Brent"],
+  "update_type":2
 }
