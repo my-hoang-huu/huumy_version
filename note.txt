@@ -1,2 +1,6 @@
+platform: 0 → cả iOS và Android
+platform: 1 → chỉ iOS
+platform: 2 → chỉ Android
+
 news image have width 150
 height default is 225
