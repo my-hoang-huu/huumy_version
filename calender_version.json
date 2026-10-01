@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.2",
-  "list_message":["Sửa lỗi home widget không hiển thị"],
+  "latest_version": "1.0.4",
+  "list_message":["Thêm trang lịch năm ở trang chủ"],
   "update_type":1,
   "platform":0
 }
