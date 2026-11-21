@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.0",
-  "list_message":["Thêm trạm tin tức"],
+  "latest_version": "1.1.4",
+  "list_message":["Thêm trang ghi chú", "Cập nhật bộ đề giữa kỳ 12"],
   "update_type":1,
   "platform":0
 }
